@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Topu_Tech",
-    "theme": "Topu",
+    "AUTHOR": "BHADBOI_Tech",
+    "theme": "BHADBOI",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
     "STRINGS": { 
@@ -11,9 +11,9 @@
             "UPDATED_LOCAL": "*Successfully Updated!*"
         },  
         "global": {      
-            "botName": "Topu-md",
+            "botName": "BHADBOI-md",
             "body": "whatsapp User Bot", 
-            "greet2" : "Thanks To Topu Tech",
+            "greet2" : "Thanks To BHADBOI Tech",
             "pic1": "https://telegra.ph/file/13f1bb945857eb9b1eca6.jpg", 
             "greet" : "Believe it",
             "dotbody" : "I decided being Pirate King.",
@@ -35,13 +35,13 @@
             "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
             "couple_male": "*I'm pretty sure I can't live without being helped!*",
             "couple_female": "*I'm pretty sure I can't live without being helped!*",
-            "admin": "TOPU ᴍᴅ or TOPU ᴍᴅ⚠️!",
-            "botAdmin": "TOPU ᴍᴅ.❗",
-            "owner": "TOPU ᴍᴅ⚠️",
-            "group": "TOPU ᴍᴅ or TOPU ᴍᴅ❗",
-            "private": "TOPU ᴍᴅ⚠️",
-            "bot": "TOPU ᴍᴅ⚠️",
-            "wait": "©²⁰²⁴TOPU ᴍᴅ✅"
+            "admin": "BHADBOI ᴍᴅ or BHADBOI ᴍᴅ⚠️!",
+            "botAdmin": "BHADBOI ᴍᴅ.❗",
+            "owner": "BHADBOI ᴍᴅ⚠️",
+            "group": "BHADBOI ᴍᴅ or BHADBOI ᴍᴅ❗",
+            "private": "BHADBOI ᴍᴅ⚠️",
+            "bot": "BHADBOI ᴍᴅ⚠️",
+            "wait": "©²⁰²BHADBOI ᴍᴅ✅"
         },
         "error": {
             "text": "*You may come to regret trying to manipulate me.\nNow go get this Error fixed*"
